@@ -2,7 +2,7 @@
 A dedicated community platform for Delhi Metro users to share  experiences, seek guidance and engage in discussions.
 <h2> Metroverse : Community forum</h2>
 <br>
-<p> t "MetroVerse - Empowering Commuters, Connecting 
+<p> "MetroVerse - Empowering Commuters, Connecting 
 Communities" was developed to create a dedicated online platform for 
 metro travellers and urban commuters. <br> The objective was to build a digital 
 community where like-minded individuals could come together to share 
